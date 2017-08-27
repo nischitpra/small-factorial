@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463921615 source:c:\users\nischit\desktop\nischit\codeblock\ds\lab\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463925215 source:f:\nischit\codeblock\ds\lab\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
